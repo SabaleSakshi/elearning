@@ -1,6 +1,6 @@
 import React from "react";
 import js from "../assets/js.jpg";
-import html from "../assets/html.jpg";
+import html from "../assets/js.jpg";
 import react from "../assets/react.png";
 import Youtube from "./Youtube";
 
